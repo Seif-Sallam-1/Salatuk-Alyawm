@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">صلاتك اليوم</string>
+
+    <!-- العناوين العامة -->
+    <string name="title_prayer_times">مواقيت الصلاة</string>
+    <string name="title_qibla">القبلة</string>
+    <string name="title_quran">القرآن الكريم</string>
+    <string name="title_adhkar">الأذكار</string>
+    <string name="title_tasbih">التسبيح</string>
+    <string name="title_settings">الإعدادات</string>
+    <string name="title_about">حول التطبيق</string>
+    <string name="title_language">اللغة</string>
+    <string name="title_theme">المظهر</string>
+    <string name="title_notifications">الإشعارات</string>
+    <string name="title_location">الموقع</string>
+    <string name="title_calculation_method">طريقة الحساب</string>
+    <string name="title_prayer_alerts">تنبيهات الصلاة</string>
+    <string name="title_fajr_alert">تنبيه الفجر</string>
+    <string name="title_dhuhr_alert">تنبيه الظهر</string>
+    <string name="title_asr_alert">تنبيه العصر</string>
+    <string name="title_maghrib_alert">تنبيه المغرب</string>
+    <string name="title_isha_alert">تنبيه العشاء</string>
+    <string name="title_about_app">حول التطبيق</string>
+    <string name="title_about_developer">حول المطور</string>
+    <string name="title_privacy_policy">سياسة الخصوصية</string>
+    <string name="title_terms_of_service">شروط الخدمة</string>
+    <string name="title_today_prayer_times">مواقيت الصلاة لهذا اليوم</string>
+
+    <!-- الرسائل -->
+    <string name="msg_welcome">مرحبًا بك في تطبيق صلاتك اليوم</string>
+    <string name="msg_select_language">يرجى اختيار اللغة المفضلة لديك</string>
+    <string name="msg_select_theme">يرجى اختيار المظهر المفضل لديك</string>
+    <string name="msg_enable_notifications">قم بتمكين إشعارات مواقيت الصلاة</string>
+    <string name="msg_set_location">اضبط موقعك للحصول على مواقيت دقيقة</string>
+    <string name="msg_choose_calculation_method">اختر طريقة الحساب المفضلة لديك</string>
+    <string name="msg_about_app">تطبيق صلاتك اليوم هو رفيقك اليومي للصلاة، يوفر لك مواقيت دقيقة، واتجاه القبلة، وقراءة القرآن والمزيد.</string>
+    <string name="msg_about_developer">تم تطويره بواسطة [اسمك]، شغوف بتطوير تطبيقات إسلامية مفيدة.</string>
+    <string name="msg_privacy_policy">خصوصيتك مهمة بالنسبة لنا. اقرأ سياسة الخصوصية لمعرفة المزيد.</string>
+    <string name="msg_terms_of_service">باستخدام هذا التطبيق، فإنك توافق على شروط الخدمة الخاصة بنا.</string>
+    <string name="msg_help_support">إذا كنت بحاجة إلى مساعدة أو دعم، يرجى التواصل معنا.</string>
+    <string name="msg_permission_denied">للحصول على مواقيت صلاة دقيقة، نحتاج إلى إذن الوصول للموقع. يرجى الذهاب إلى إعدادات التطبيق ومنح الإذن يدويًا.</string>
+    <string name="msg_loading_prayer_times">جاري جلب مواقيت الصلاة...</string>
+    <string name="msg_error_prayer_times">حدث خطأ أثناء جلب المواقيت: %1$s</string>
+
+    <!-- الأزرار -->
+    <string name="btn_save">حفظ</string>
+    <string name="btn_cancel">إلغاء</string>
+    <string name="btn_ok">حسنًا</string>
+    <string name="btn_enable">تفعيل</string>
+    <string name="btn_disable">تعطيل</string>
+    <string name="btn_open_settings">الذهاب إلى الإعدادات</string>
+    <string name="btn_reset">إعادة الضبط</string>
+
+    <!-- التسميات -->
+    <string name="lbl_select">اختر</string>
+    <string name="lbl_language">اللغة</string>
+    <string name="lbl_theme">المظهر</string>
+    <string name="lbl_notifications">الإشعارات</string>
+    <string name="lbl_location">الموقع</string>
+    <string name="lbl_calculation_method">طريقة الحساب</string>
+    <string name="lbl_prayer_alerts">تنبيهات الصلاة</string>
+    <string name="lbl_fajr_alert">تنبيه الفجر</string>
+    <string name="lbl_dhuhr_alert">تنبيه الظهر</string>
+    <string name="lbl_asr_alert">تنبيه العصر</string>
+    <string name="lbl_maghrib_alert">تنبيه المغرب</string>
+    <string name="lbl_isha_alert">تنبيه العشاء</string>
+
+    <!-- الأقسام -->
+    <string name="settings_section_language">اللغة</string>
+    <string name="settings_section_appearance">المظهر</string>
+    <string name="settings_section_prayer_times">مواقيت الصلاة</string>
+
+    <!-- تسميات الإعدادات -->
+    <string name="settings_label_app_language">لغة التطبيق</string>
+    <string name="settings_label_theme">وضع المظهر</string>
+    <string name="settings_label_calculation_method">طريقة الحساب</string>
+
+    <!-- أسماء الصلوات -->
+    <string name="fajr">الفجر</string>
+    <string name="sunrise">الشروق</string>
+    <string name="dhuhr">الظهر</string>
+    <string name="asr">العصر</string>
+    <string name="maghrib">المغرب</string>
+    <string name="isha">العشاء</string>
+
+    <!-- خيارات اللغة -->
+    <string name="language_system">اتباع النظام</string>
+    <string name="language_ar">العربية</string>
+    <string name="language_en">الإنجليزية</string>
+
+    <!-- خيارات المظهر -->
+    <string name="theme_light">فاتح</string>
+    <string name="theme_dark">داكن</string>
+    <string name="theme_system_default">اتباع النظام</string>
+
+    <!-- طرق الحساب -->
+    <string name="calculation_method_egyptian_general_authority">الهيئة العامة للمساحة المصرية</string>
+    <string name="calculation_method_umm_al_qura_university">جامعة أم القرى، مكة المكرمة</string>
+    <string name="calculation_method_indian_council_of_religious_affairs">المجلس الهندي للشؤون الدينية</string>
+    <string name="calculation_method_muslim_world_league">رابطة العالم الإسلامي</string>
+    <string name="calculation_method_islamic_society_of_north_america">الجمعية الإسلامية لأمريكا الشمالية (ISNA)</string>
+    <string name="msg_quran_page_load_error">فشل تحميل الصفحة. يرجى التحقق من اتصال الإنترنت.</string>
+    <string name="msg_location_permission_required">
+    يتطلب التطبيق إذن الموقع للحصول على مواقيت صلاة دقيقة لمنطقتك.
+</string>
+    <string name="btn_grant_permission">منح الإذن</string>
+
+    <string name="msg_exact_alarm_permission_required">لضمان عمل الأذان في وقته، يحتاج التطبيق إلى إذن "التنبيهات والتذكيرات".</string>
+    <string name="btn_go_to_settings">الذهاب إلى الإعدادات</string>
+
+
+</resources>
